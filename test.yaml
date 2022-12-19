@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/Khalidoukh/xsstest/test.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/Khalidoukh/xsstest/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
