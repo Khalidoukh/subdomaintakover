@@ -20,7 +20,7 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - khalidoukh_XSS_D
+        - <img onerror=alert(document.domain) src=1>
       operationId: findAccounts
       summary: Finds all accounts
   '/hack/hachid/{id}':
